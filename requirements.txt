@@ -1,0 +1,6 @@
+streamlit
+pandas
+Pillow
+gdown
+requests
+scikit-learn
