@@ -61,7 +61,6 @@ Save it as a .pkl file (IDO1_model.pkl) for later use in prediction or deploymen
 
 ## Output Files
 descriptor_list.csv: CSV containing selected descriptors (features) after low-variance filtering.
-
 IDO1_model.pkl: Trained Random Forest model stored as a pickle object.
 ---
 
