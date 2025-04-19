@@ -1,1 +1,1 @@
-# Bioactivity_Prediction_App
+# IDO1_Bioactivity_Prediction_App
